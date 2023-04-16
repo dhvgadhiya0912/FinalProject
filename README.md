@@ -1,6 +1,3 @@
-# FinalProject
-# BISI CST2101 Project - Diabetes Analysis
-
 Context
 ---------------
 
